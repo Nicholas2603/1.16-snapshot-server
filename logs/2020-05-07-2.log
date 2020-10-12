@@ -1,0 +1,107 @@
+[01:38:34] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[01:38:34] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[01:38:35] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[01:38:36] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:38:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:38:36] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:38:36] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01:38:36] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01:38:36] [Server thread/INFO]: Starting minecraft server version 20w17a
+[01:38:36] [Server thread/INFO]: Loading properties
+[01:38:36] [Server thread/INFO]: Default game type: SURVIVAL
+[01:38:36] [Server thread/INFO]: Generating keypair
+[01:38:36] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:38:36] [Server thread/INFO]: Using default channel type
+[01:38:37] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:38:37] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:38:37] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:38:37] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:38:37] [Server thread/INFO]: Preparing level "world"
+[01:38:37] [Server thread/INFO]: Reloading ResourceManager: Default, player head drops v1.0.0.zip, anti ghast grief v1.0.0.zip, armour statues v2.6.2.zip, double shulker shells v1.2.0.zip, durability ping v1.1.0.zip, multiplayer sleep v1.0.1.zip, wandering trades v1.1.0.zip, Effective_Netherite_Armour_1.0.zip, Paperbark_1.0.zip, Shulker_Respawning_1.0.zip, Trader_Notify_1.0.zip, No Nether Portal Delay.zip
+[01:38:38] [Server thread/INFO]: Loaded 6 recipes
+[01:38:39] [Server thread/ERROR]: Couldn't parse loot table as:random_pose
+t: Non [a-z0-9/._-] character in path of location: minecraft:generic.attackDamage
+	at tx.<init>(SourceFile:38) ~[server.jar:?]
+	at tx.<init>(SourceFile:43) ~[server.jar:?]
+	at dbh$b.a(SourceFile:185) ~[server.jar:?]
+	at dbh$d.a(SourceFile:134) ~[server.jar:?]
+	at dbh$d.b(SourceFile:112) ~[server.jar:?]
+	at dbd$c.a(SourceFile:104) ~[server.jar:?]
+	at dbd$c.b(SourceFile:89) ~[server.jar:?]
+	at dbf$a.a(SourceFile:93) ~[server.jar:?]
+	at dbf$a.deserialize(SourceFile:81) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at add.a(SourceFile:440) ~[server.jar:?]
+	at add.a(SourceFile:456) ~[server.jar:?]
+	at dan$e.a(SourceFile:154) ~[server.jar:?]
+	at dan$e.b(SourceFile:130) ~[server.jar:?]
+	at dak$a.a(SourceFile:53) ~[server.jar:?]
+	at dak$a.deserialize(SourceFile:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at add.a(SourceFile:440) ~[server.jar:?]
+	at add.a(SourceFile:448) ~[server.jar:?]
+	at czv$b.a(SourceFile:169) ~[server.jar:?]
+	at czv$b.deserialize(SourceFile:165) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:41) ~[server.jar:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:162) ~[server.jar:?]
+	at add.a(SourceFile:440) ~[server.jar:?]
+	at add.a(SourceFile:456) ~[server.jar:?]
+	at czw$b.a(SourceFile:213) ~[server.jar:?]
+	at czw$b.deserialize(SourceFile:209) ~[server.jar:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:69) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:887) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:952) ~[server.jar:?]
+	at com.google.gson.Gson.fromJson(Gson.java:925) ~[server.jar:?]
+	at czx.a(SourceFile:63) ~[server.jar:?]
+	at java.util.HashMap.forEach(Unknown Source) ~[?:1.8.0_251]
+	at czx.a(SourceFile:61) ~[server.jar:?]
+	at czx.a(SourceFile:25) ~[server.jar:?]
+	at aas.a(SourceFile:13) ~[server.jar:?]
+	at java.util.concurrent.CompletableFuture.uniAccept(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(Unknown Source) ~[?:1.8.0_251]
+	at java.util.concurrent.CompletableFuture$Completion.run(Unknown Source) ~[?:1.8.0_251]
+	at aat.a(SourceFile:71) ~[server.jar:?]
+	at um.run(SourceFile:18) [server.jar:?]
+	at alp.c(SourceFile:144) [server.jar:?]
+	at alt.c(SourceFile:23) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.b(SourceFile:716) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.c(SourceFile:149) [server.jar:?]
+	at alp.w(SourceFile:118) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.bb(SourceFile:698) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.w(SourceFile:692) [server.jar:?]
+	at alp.c(SourceFile:127) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.bd(SourceFile:1439) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.aZ(SourceFile:439) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.i_(SourceFile:355) [server.jar:?]
+	at xr.d(SourceFile:189) [server.jar:?]
+	at net.minecraft.server.MinecraftServer.run(SourceFile:600) [server.jar:?]
+	at java.lang.Thread.run(Unknown Source) [?:1.8.0_251]
+[01:38:39] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[01:38:48] [Server thread/INFO]: Loaded 106 custom command functions
+[01:38:48] [Server thread/ERROR]: Parsing error loading custom advancement main:main/namespace: Expected item to be an item, was unknown string 'minecraft:item'
+[01:38:48] [Server thread/INFO]: Loaded 953 advancements
+[01:38:49] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:38:50] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:50] [Server thread/INFO]: Preparing spawn area: 0%
+[01:38:50] [Server thread/INFO]: Preparing spawn area: 21%
+[01:38:50] [Server thread/INFO]: Time elapsed: 1402 ms
+[01:38:50] [Server thread/INFO]: Done (13.166s)! For help, type "help"
+[01:38:51] [Server thread/INFO]: [Server] No Nether Portal Delay by Waifu Before Laifu has been loaded!
+[01:39:04] [Server thread/INFO]: Daridar[/127.0.0.1:52620] logged in with entity id 319 at (29.5, 64.0, -630.5)
+[01:39:04] [Server thread/INFO]: Daridar joined the game
+[01:39:20] [Server thread/INFO]: Daridar lost connection: Disconnected
+[01:39:20] [Server thread/INFO]: Daridar left the game

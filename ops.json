@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "5e06d054-2501-4a60-a795-9c1eb8af37be",
+    "name": "Daridar",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "3e252979-4f1b-4d0e-9ea1-90cad152d676",
+    "name": "DerMinus",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "71539990-5192-4d00-ab15-cbc3250903d3",
+    "name": "Mikkstar12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

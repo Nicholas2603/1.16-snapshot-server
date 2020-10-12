@@ -1,0 +1,124 @@
+[22:57:56] [main/ERROR]: Unable to bootstrap registry 'minecraft:chunk_generator_type'
+[22:57:56] [main/ERROR]: Registry 'minecraft:chunk_generator_type' was empty after loading
+[22:57:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[22:57:57] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:57:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:57:57] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:57:57] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:57:57] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:57:57] [Server thread/INFO]: Starting minecraft server version 20w17a
+[22:57:57] [Server thread/INFO]: Loading properties
+[22:57:57] [Server thread/INFO]: Default game type: SURVIVAL
+[22:57:57] [Server thread/INFO]: Generating keypair
+[22:57:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:57:58] [Server thread/INFO]: Using default channel type
+[22:57:58] [Server thread/INFO]: Preparing level "world"
+[22:57:58] [Server thread/INFO]: Reloading ResourceManager: Default, player head drops v1.0.0.zip, double shulker shells v1.2.0.zip, multiplayer sleep v1.0.1.zip, Effective_Netherite_Armour_1.0.zip, Trader_Notify_1.0.zip, Plated_Elytra_3.0.zip, AFK_detection_1.1.zip, rf-cure-1562012666.zip
+[22:57:59] [Server thread/INFO]: Loaded 6 recipes
+[22:58:00] [Server thread/WARN]: Found validation problem in {minecraft:entities/shulker}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/shulker
+[22:58:00] [Server thread/INFO]: Loaded 31 custom command functions
+[22:58:00] [Server thread/INFO]: Loaded 914 advancements
+[22:58:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:03] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-1/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-1/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-1/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-5/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-5/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-6/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-1/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-5/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-3/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-3/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-7/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-3/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-6/INFO]: Preparing spawn area: 0%
+[22:58:11] [Worker-3/INFO]: Preparing spawn area: 0%
+[22:58:11] [User Authenticator #1/INFO]: UUID of player Mikkstar12 is 71539990-5192-4d00-ab15-cbc3250903d3
+[22:58:11] [Server thread/INFO]: Preparing spawn area: 0%
+[22:58:12] [Server thread/INFO]: Preparing spawn area: 21%
+[22:58:12] [Server thread/INFO]: Preparing spawn area: 21%
+[22:58:12] [Server thread/INFO]: Time elapsed: 10367 ms
+[22:58:12] [Server thread/INFO]: Done (13.925s)! For help, type "help"
+[22:58:13] [Server thread/INFO]: Mikkstar12[/142.184.164.91:54164] logged in with entity id 557 at (1.9888505714536415, 83.59881491809719, -915.5609500854251)
+[22:58:13] [Server thread/INFO]: Mikkstar12 joined the game
+[22:58:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2779ms or 55 ticks behind
+[22:58:18] [User Authenticator #2/INFO]: UUID of player TheFriendlyYam is 4d13907f-acf6-4f75-baf3-7638418d5408
+[22:58:18] [Server thread/INFO]: TheFriendlyYam[/173.230.177.143:59059] logged in with entity id 872 at (112.07276267948164, 76.2683949884408, -1087.4779094151286)
+[22:58:18] [Server thread/INFO]: TheFriendlyYam joined the game
+[22:58:39] [Server thread/INFO]: Saving the game (this may take a moment!)
+[22:58:40] [Server thread/INFO]: Saved the game
+[22:58:40] [Server thread/WARN]: TheFriendlyYam moved too quickly! 1.4126132511446343,-1.635457126502473,17.927188124411714
+[22:58:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[22:59:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3214ms or 64 ticks behind
+[22:59:21] [User Authenticator #3/INFO]: UUID of player Daridar is 5e06d054-2501-4a60-a795-9c1eb8af37be
+[22:59:22] [Server thread/INFO]: Daridar[/192.168.2.18:52941] logged in with entity id 3549 at (80.26695795035005, 69.0, -1073.7439763082766)
+[22:59:22] [Server thread/INFO]: Daridar joined the game
+[22:59:22] [Server thread/WARN]: TheFriendlyYam moved too quickly! 17.563715742234557,-2.1820701553587583,-3.5662094032572895
+[22:59:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3133ms or 62 ticks behind
+[22:59:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4062ms or 81 ticks behind
+[23:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4682ms or 93 ticks behind
+[23:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4463ms or 89 ticks behind
+[23:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4294ms or 85 ticks behind
+[23:01:07] [Server thread/INFO]: [Daridar: Set own game mode to Spectator Mode]
+[23:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3438ms or 68 ticks behind
+[23:01:14] [Server thread/WARN]: Daridar moved too quickly! 21.86575658494445,2.328233432850979,-20.284929561972604
+[23:01:15] [Server thread/WARN]: Daridar moved too quickly! 7.367432376204874,0.9161484994783535,-8.01359232336381
+[23:01:16] [Server thread/WARN]: Daridar moved too quickly! 20.539887228788587,2.432982990419191,-19.054916486801403
+[23:01:17] [Server thread/WARN]: Daridar moved too quickly! 18.938774308932068,2.3424488597585054,-17.569559111954277
+[23:01:18] [Server thread/WARN]: Daridar moved too quickly! 20.30371235068833,2.597136069894063,-18.83581632678829
+[23:01:19] [Server thread/WARN]: Daridar moved too quickly! 18.990893164937575,2.494074636373938,-17.61790993479576
+[23:01:20] [Server thread/WARN]: Daridar moved too quickly! 17.90900501419253,1.351663293981801,-16.456129696880453
+[23:01:21] [Server thread/WARN]: Daridar moved too quickly! 14.522316040014346,0.36831097501983834,-13.058200559610668
+[23:01:22] [Server thread/WARN]: Daridar moved too quickly! 11.390417667034,0.9983956759732138,-10.44119432020284
+[23:01:23] [Server thread/WARN]: Daridar moved too quickly! 11.69623259187722,1.8790718990764077,-11.229732044615503
+[23:01:24] [Server thread/WARN]: Daridar moved too quickly! 10.819498194745165,1.4161345232940334,-10.291659130648668
+[23:01:25] [Server thread/WARN]: Daridar moved too quickly! 9.631680894903525,1.085924835189246,-9.105677489621257
+[23:01:26] [Server thread/WARN]: Daridar moved too quickly! 8.238795240713273,1.2416896458355637,-8.056312730962873
+[23:01:27] [Server thread/WARN]: Daridar moved too quickly! 8.51402899978001,1.5445785536891492,-8.68714607262018
+[23:01:28] [Server thread/WARN]: Daridar moved too quickly! 7.964595419428747,1.5743643650836532,-8.348445258623315
+[23:01:29] [Server thread/WARN]: Daridar moved too quickly! 7.587773391619123,1.5065771745685197,-7.979320983190064
+[23:01:30] [Server thread/WARN]: Daridar moved too quickly! 7.978131184371762,1.5794771668780214,-8.3923101647581
+[23:01:31] [Server thread/WARN]: Daridar moved too quickly! 8.364901554941753,1.6526109020011006,-8.799411961611213
+[23:01:32] [Server thread/WARN]: Daridar moved too quickly! 7.987862475163865,1.5764669876077875,-8.402808459054313
+[23:01:33] [Server thread/WARN]: Daridar moved too quickly! 7.986616910105454,1.5828503864323693,-8.415830856656385
+[23:01:35] [Server thread/WARN]: Daridar moved too quickly! 7.621092545210047,1.5175840722150298,-8.05416632538845
+[23:01:36] [Server thread/WARN]: Daridar moved too quickly! 8.487933692608777,1.5905888394037504,-8.66989077505741
+[23:01:37] [Server thread/WARN]: Daridar moved too quickly! 7.84672169100196,1.2962022294534705,-7.091005207204489
+[23:01:38] [Server thread/WARN]: Daridar moved too quickly! 9.553903421953635,1.4673282517301942,-4.206218498799899
+[23:01:39] [Server thread/WARN]: Daridar moved too quickly! 10.491668516345726,1.7761588352478128,-1.9906521902105396
+[23:01:40] [Server thread/WARN]: Daridar moved too quickly! 3.1796975640393015,5.000847743821026,-8.138309761675146
+[23:01:41] [Server thread/WARN]: Daridar moved too quickly! 6.311561251417672,5.644365703128088,-10.018047129866545
+[23:01:47] [Server thread/WARN]: Daridar moved too quickly! 7.169537114272103,-5.695622472715598,-4.5877537344615575
+[23:01:50] [Server thread/WARN]: Daridar moved too quickly! 9.057023410279456,-5.3756342834952875,-0.5162184683831583
+[23:01:52] [Server thread/WARN]: Daridar moved too quickly! 8.476559298856223,1.6600348463320813,-5.291685919910833
+[23:01:56] [Server thread/WARN]: Daridar moved too quickly! 2.6588167998318113,3.829304051647256,8.92685079006992
+[23:02:17] [Server thread/WARN]: Daridar moved too quickly! -9.698803059961968,1.3799999952316284,-2.539431062918311
+[23:02:19] [Server thread/WARN]: Daridar moved too quickly! -11.159839717121258,-1.3799999952316284,-2.468052993898482
+[23:02:20] [Server thread/WARN]: Daridar moved too quickly! 9.755021689453493,-2.0361397263553016,-4.301614947705957
+[23:02:21] [Server thread/WARN]: Daridar moved too quickly! 6.370609946342157,-8.721207291408675,2.287135901927968
+[23:02:21] [Server thread/WARN]: Daridar moved too quickly! 0.949084310540897,-12.189323922910148,4.38846259641673
+[23:02:22] [Server thread/WARN]: Daridar moved too quickly! -22.31096861287933,-2.7554375145715113,-6.224877020706117
+[23:02:23] [Server thread/WARN]: Daridar moved too quickly! -18.57264608434062,-6.388184233858738,9.048719047504392
+[23:02:24] [Server thread/WARN]: Daridar moved too quickly! 3.551682324419602,-17.506221414874958,8.037373036025201
+[23:02:26] [Server thread/INFO]: [Daridar: Set own game mode to Creative Mode]
+[23:02:30] [Server thread/INFO]: [Daridar: Set own game mode to Survival Mode]
+[23:02:58] [Server thread/INFO]: <Mikkstar12> TheFriendlyYam
+[23:03:02] [Server thread/INFO]: <Mikkstar12> w
+[23:08:09] [Server thread/INFO]: [Daridar: Set own game mode to Creative Mode]
+[23:09:46] [Server thread/INFO]: TheFriendlyYam lost connection: Disconnected
+[23:09:46] [Server thread/INFO]: TheFriendlyYam left the game
+[23:09:54] [Server thread/INFO]: [Daridar: Set own game mode to Survival Mode]
+[23:11:45] [Server thread/INFO]: Daridar lost connection: Disconnected
+[23:11:45] [Server thread/INFO]: Daridar left the game
+[23:14:39] [Server thread/INFO]: Mikkstar12 fell from a high place
+[23:20:25] [Server thread/WARN]: Mikkstar12 moved wrongly!
+[23:22:11] [Server thread/INFO]: Mikkstar12 was slain by Iron Golem
+[23:28:43] [Server thread/INFO]: Mikkstar12 tried to swim in lava
+[23:36:11] [Server thread/INFO]: Mikkstar12 fell from a high place
+[23:44:18] [User Authenticator #4/INFO]: UUID of player Daridar is 5e06d054-2501-4a60-a795-9c1eb8af37be
+[23:44:18] [Server thread/INFO]: Daridar[/192.168.2.18:53119] logged in with entity id 14625 at (-36.621889120974004, 64.0, -868.1117712093934)
+[23:44:18] [Server thread/INFO]: Daridar joined the game
